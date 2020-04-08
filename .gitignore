@@ -9,3 +9,6 @@ EncryptionExample/obj/Release/EncryptionExample.csproj.FileListAbsolute.txt
 EncryptionExample/obj/Release/EncryptionExample.csprojAssemblyReference.cache
 EncryptionExample/obj/Release/EncryptionExample.exe
 EncryptionExample/obj/Release/EncryptionExample.pdb
+.vs/EncryptionExample/v16/Server/sqlite3/storage.ide
+.vs/EncryptionExample/v16/Server/sqlite3/db.lock
+.vs/EncryptionExample/v16/.suo
