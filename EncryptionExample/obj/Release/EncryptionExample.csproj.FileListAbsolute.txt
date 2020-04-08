@@ -1,6 +1,0 @@
-D:\C#\EncryptionExample\EncryptionExample\bin\Release\EncryptionExample.exe.config
-D:\C#\EncryptionExample\EncryptionExample\bin\Release\EncryptionExample.exe
-D:\C#\EncryptionExample\EncryptionExample\bin\Release\EncryptionExample.pdb
-D:\C#\EncryptionExample\EncryptionExample\obj\Release\EncryptionExample.exe
-D:\C#\EncryptionExample\EncryptionExample\obj\Release\EncryptionExample.pdb
-D:\C#\EncryptionExample\EncryptionExample\obj\Release\EncryptionExample.csprojAssemblyReference.cache
